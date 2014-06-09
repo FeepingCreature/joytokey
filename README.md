@@ -10,17 +10,13 @@ Usage
 
 1. Install a current version of [AutoHotKey](http://www.autohotkey.com/).
 
-2. Download the script file (JoyToKey.ahk) and save it somewhere
-convenient, like your desktop or My Documents.
+2. Download the script file (JoyToKey.ahk) and save it somewhere convenient, like your desktop or My Documents.
 
-3. Open the script in AutoHotKey by double-clicking on it. If the script is
-operating correctly, moving your Joystick slightly should move the cursor.
+3. Open the script in AutoHotKey by double-clicking on it. If the script is operating correctly, moving your Joystick slightly should move the cursor.
 
-4. To change settings, right-click on the green "H" in the
-System Tray (bottom right) and select "Edit This Script".
+4. To change settings, right-click on the green "H" in the System Tray (bottom right) and select "Edit This Script".
 
-4.1. To reload your changes, save the file in Notepad,
-right-click on "H" and select "Reload This Script".
+--* To reload your changes, save the file in Notepad, right-click on "H" and select "Reload This Script".
 
 5. To close JoyToKey, right-click on "H" and select "Exit" or "Pause Script".
 
