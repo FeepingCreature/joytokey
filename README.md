@@ -22,7 +22,7 @@ System Tray (bottom right) and select "Edit This Script".
 4.1. To reload your changes, save the file in Notepad,
 right-click on "H" and select "Reload This Script".
 
-4. To close JoyToKey, right-click on "H" and select "Exit" or "Pause Script".
+5. To close JoyToKey, right-click on "H" and select "Exit" or "Pause Script".
 
 If there is a problem with repeated text inputs, please create an issue about
 it on Github. Don't forget to give your type of Joystick.
@@ -34,6 +34,8 @@ To disable a line, comment it out by placing a semicolon at the front.
 
     ;This line is commented out.
 	This line is not.
+
+The names of keys can be found in the [AutoHotKey help](http://www.autohotkey.com/docs/KeyList.htm).
 
 The Hat* settings (HatUp, HatRight..) bind keys to the Hat or Point-Of-View switch on your Joystick.
 It is usually found at the top of your Joystick and used to adjust the camera.
