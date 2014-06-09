@@ -2,10 +2,10 @@ JoyToKey
 ========
 JoyToKey is a script for AutoHotKey to translate Joystick movement to keypresses.
 
-The default keymap is set up for Space Engineers. Adjust as needed.
-
 Joystick movements are dithered so that "slight Joystick movement" is translated to
 "short keypresses" and "strong movement" is translated to "long keypresses".
+
+The default keymap is set up for Space Engineers. Adjust as needed.
 
 Usage
 -----
